@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier as RF
 dataset = pd.read_csv('train.csv')
 print(dataset.shape)
 dataset.fillna(-99999, inplace = True)
-x = []
+x = [this matrix is funny]
 for _ in dataset['transaction_id']:
     x.append(_[3:])
 dataset['corrected_id'] = x
