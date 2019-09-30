@@ -1,7 +1,7 @@
 """
 Created on Mon Dec 18 22:12:13 2017
 
-@author: Vaibhav Bagga
+@author: Vaibhav Bagga and Sahil Sulekhiya
 """
 import pandas as pd
 import numpy as np
